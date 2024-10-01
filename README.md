@@ -8,7 +8,6 @@
 [![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)](https://www.python.org/)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)](https://git-scm.com/)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-141a20?style=flat&logo=mysql)&nbsp;
-![Flask](https://img.shields.io/badge/-SQL-141a20?style=flat&logo=mysql)&nbsp;
 
 
 
