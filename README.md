@@ -1,10 +1,10 @@
-## About me 
+## About Me
 
 👋 I'm Mahdi Bahramshahi  
-🎓 Geology student | Learning Remote Sensing & Earth Observation  
-🧠 Interested in ML & Deep Learning for satellite image analysis  
-🛰️ Working on geospatial projects (classification, segmentation, feature extraction)  
-🛠️ Python • Rasterio • NumPy • OpenCV • Scikit-learn • Flask • Django • Matplotlib 
+🎓 Geology Student @ SBU | Exploring AI & Machine Learning  
+🛰️ Interested in Deep Learning for Geology & Geospatial Analysis  
+
+🛠️ Python • OpenCV • NumPy • Scikit-learn • Django • flask
 
 ### 📫 Connect with Me
 
